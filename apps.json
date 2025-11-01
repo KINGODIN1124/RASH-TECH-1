@@ -1,0 +1,14 @@
+{
+    "Spotify": {
+        "emoji": "🎵",
+        "link": "https://example.com/spotify-premium"
+    },
+    "Netflix": {
+        "emoji": "🎬",
+        "link": "https://example.com/netflix-premium"
+    },
+    "Canva": {
+        "emoji": "🎨",
+        "link": "https://example.com/canva-premium"
+    }
+}
